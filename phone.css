@@ -1,0 +1,129 @@
+nav{
+    flex-direction: column;
+}
+.logo{
+    padding-left: 0px;
+}
+
+.menu{
+    margin-right: 0px;
+}
+
+.menu a{
+    padding: 10px 5px;
+    margin: 1px;
+    font-size: 15px;
+}
+
+.text{
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+
+.text h1{
+    font-size: 35px;
+}
+
+
+
+#about{
+    padding: 49px 30px;
+}
+
+.about-left-col {
+    flex-basis: 100%;
+}
+.about-row img{
+    border-radius: 25px;
+    
+}
+
+
+
+.about-right-col {
+    flex-basis: 100%;
+}
+
+.about-left-col img {
+    padding: 10px;
+}
+
+.about-row{
+    flex-direction: column;
+}
+
+.skills-row{
+    flex-direction: column;
+
+}
+
+.skills-left-column{
+    flex-basis: 100%;
+}
+
+.skills-right-column{
+    flex-basis: 100%;
+    width: 100%;
+    margin-top: 30px;
+
+}
+
+#skills{
+    padding: 49px 30px;
+}
+
+.skills-left-column{
+    flex-basis: 100%;
+}
+
+.progress-div{
+    width: 100%;
+    
+}
+
+.progress-div p{
+    padding-left: 0px;
+}
+
+progress{
+    width: 70%;
+}
+
+#services {
+    padding: 49px 30px;
+}
+
+.services-row{
+    flex-direction: column;
+}
+
+#contact{
+    padding: 49px 30px;
+}
+
+.contact-right-column{
+    flex-basis: 100%;
+   
+    margin-top: 30px;
+
+}
+
+.contact-left-column{
+    flex-basis: 100%;
+}
+
+.contact-right-column{
+    margin-top: 0px;
+}
+
+footer h2{
+    font-size: 1rem;
+}
+
+header{
+    clip-path: polygon(50% 0%, 100% 0, 100% 86%, 50% 100%, 0% 85%, 0 0);
+    height: 45vh;
+    background: url("./img/p2.jpg");
+}
+
